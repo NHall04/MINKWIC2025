@@ -1,4 +1,4 @@
-# MINKWIC2025 JOHN
+# MINKWIC2025  Ni
 A demo repository for MINKWIC 2025 workshop
 
 ## GitHub and Markdown Guides
